@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * modif en cours... pas sûr qu'on le garde ensuite.
+ */
+
 class MyDateTime extends DateTime
 {
 
